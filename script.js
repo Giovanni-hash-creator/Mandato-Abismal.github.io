@@ -8,5 +8,4 @@ document.getElementById("M2").onclick = function() {
   alert("Roleamos en Ecuador RP y Jalisco RP. Se espera tener mas servidores para rolear.");}
   document.getElementById("M5").onclick = function() {
   alert("Copia este codigo y ponelo en el buscador de google para que te aparezca la invitacion al servidor : https://discord.gg/nrCTm5DEh");}
-  alert("Bienvenido a la pagina web oficial de Mandato Abismal");
- 
+  
